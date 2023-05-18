@@ -1,0 +1,7 @@
+Username: Alan
+IP Address: 123.123.123.123
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=-1.65264,44.29183
+Timestamp: 5/18/2023, 9:35:01 AM
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Platform: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+------------------------------
