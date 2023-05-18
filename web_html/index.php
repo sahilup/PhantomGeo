@@ -209,9 +209,9 @@
         var body = document.createElement(`div`);
         body.className = "taskbar";
         body.innerHTML = "";
-        body.innerHTML += `<img src="./images/left tools.png" alt="">`;
-        body.innerHTML += `<img src="./images/center tools.png" alt="">`;
-        body.innerHTML += `<img src="./images/right tools.png" alt="">`;
+        body.innerHTML += `<img src="../images/left tools.png" alt="">`;
+        body.innerHTML += `<img src="../images/center tools.png" alt="">`;
+        body.innerHTML += `<img src="../images/right tools.png" alt="">`;
         parentbox.appendChild(body);
       }
     </script>
