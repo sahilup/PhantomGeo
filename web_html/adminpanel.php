@@ -32,11 +32,6 @@ if (!isset($_SESSION['username'])) {
         </div>
     </div>
 
-
-
-
-
-
     <script>
         function fetchUserInfo() {
             var username = document.getElementById('username-input').value;
@@ -85,7 +80,7 @@ if (!isset($_SESSION['username'])) {
 
                                 var userBox=document.createElement('div');
                                 userBox.className="user-box";
-                               // userBox.innerHTML+="<p>Username: <span>" + username + "</span></p>";
+                                // userBox.innerHTML += "<p>Username: <span>" + username + "</span></p>";
                                 userBox.innerHTML += "<p>Username: <span>" + username + "</span></p>";
                                 userBox.innerHTML += "<p>IP Address: <span>" + ipAddress + "</span></p>";
                                 userBox.innerHTML += "<p>Timestamp: <span>" + timestamp + "</span></p>";

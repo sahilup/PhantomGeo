@@ -1,0 +1,116 @@
+* {
+  margin: auto 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* flex-direction: column; */
+  /* overflow: hidden; */
+  /* height: 100vw; */
+}
+
+.heading {
+  margin-bottom: 55px;
+}
+
+.heading h1 {
+  color: rgb(250, 250, 250);
+}
+
+.taskbar {
+  /* position: fixed; */
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  /* margin-top: 8%; */
+  padding: 10px 0;
+  background-color: rgb(21, 24, 26);
+}
+
+.taskbar img {
+  height: 60px;
+}
+
+.container-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25vh;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: #ffffff;
+  /* border: 1px solid #dddddd; */
+  border-radius: 10px;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+#canvas {
+  background-color: #0987b7;
+}
+
+.video-wrap {
+  /* border:2px solid orange; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none; /* this line is overwritten by the function requestCameraPermission() */
+  margin-bottom: 30px;
+}
+
+#video {
+  width: 540px;
+  height: 500px;
+}
+
+h1 {
+  text-align: center;
+  color: #333333;
+  font-size: 25px;
+}
+
+form {
+  margin-top: 30px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #333333;
+}
+
+input[type="text"] {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+  font-size: 18px;
+  /* background-color:#0987b7; */
+  background-color: rgb(0, 122, 255);
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+input[type="submit"]:hover {
+  /* background-color: #00a5e5; */
+  background-color: rgb(0, 104, 216);
+}
