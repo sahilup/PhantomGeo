@@ -7,9 +7,10 @@ Please note that the use of this tool for any malicious or illegal activities is
 # Screenshots
 ![Screenshot1](https://github.com/sahilup/PhantomGeo/assets/120382518/727f703c-c461-45d1-9720-4850d18a2f8f)
 
-![Screenshot (45)](https://github.com/sahilup/PhantomGeo/assets/133857367/d0ec3d4e-9ae1-44d6-b8e8-83ab3d9626c3)
+![Screenshot2](https://github.com/sahilup/PhantomGeo/assets/133857367/59192208-1d20-4743-b8ba-93fdae568c00)
 
-![Screenshot (47)](https://github.com/sahilup/PhantomGeo/assets/120382518/0c1ffc0d-ec0c-4270-bc5e-3c00c56db53d)
+
+![Screenshot3](https://github.com/sahilup/PhantomGeo/assets/120382518/0c1ffc0d-ec0c-4270-bc5e-3c00c56db53d)
 
 # Features
 - Simulates a video conference waiting room to deceive the target.
