@@ -1,4 +1,5 @@
 # PhantomGeo - Social Engineering Tool
+NOTE: This project is still under development. 
 PhantomGeo is a social engineering tool designed to capture location coordinates and camera access from a targeted user by deceiving them into believing they are in a video conference waiting room. This tool exploits the trust and familiarity users have with video conferencing interfaces, ultimately gaining unauthorized access to their location and camera data.
 
 Please note that the use of this tool for any malicious or illegal activities is strictly prohibited. The purpose of PhantomGeo is to raise awareness about social engineering vulnerabilities and help organizations enhance their security measures against such attacks.
