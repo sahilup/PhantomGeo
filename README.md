@@ -33,3 +33,6 @@ Please note that the use of this tool for any malicious or illegal activities is
 4. Login Credentials are: Username: root , Password: 12345 (Note: this can be changed in the login.php file)
 5. Now you can accesss the google map link, IP address and device details of the user.(The details are also stored in the coordinates.txt file)
 6. The images can be accessed in the captured-images folder
+
+# Attention
+This version is designed to be compatible with both localhost and your personal domain and host. It can be utilized in various situations, such as when Ngrok service is suspended or banned in your country, or if your victim is unable to access Ngrok links due to suspicions or restrictions in their country. In such cases, we recommend utilizing the tool on your own host and domain.
